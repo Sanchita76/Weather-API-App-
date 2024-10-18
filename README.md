@@ -1,5 +1,5 @@
 # Weather-API-App
-This project is done using Tailwind CSS, OpenWeather API <br>
+This project is done using Tailwind CSS, OpenWeather API , Vue 3<br>
 It gives an hourly forecast of the day and entire week, including actual temperature & what it feels like to be (Sunny/Cloudy) <br>
 It saves the search history
 
